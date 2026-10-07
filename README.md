@@ -943,7 +943,7 @@ The workflow provides a foundation for taking raw marketplace data and turning i
 
 This project is part of my **data analytics portfolio** and demonstrates practical skills in **Python, Pandas, NumPy, data cleaning, feature engineering, exploratory data analysis (EDA), data visualization, and e-commerce product analytics**.
 
-The project analyzes **Flipkart laptop product listings** to understand **product pricing, discounts, ratings, reviews, brands, processors, RAM, and storage configurations**. It also demonstrates the use of **data preprocessing, missing-value handling, regular expressions, outlier detection, correlation analysis, and univariate, bivariate, and multivariate analysis** to generate meaningful business insights from e-commerce product data.
+The project analyzes **Product listings** to understand **product pricing, discounts, ratings, reviews, brands, processors, RAM, and storage configurations**. It also demonstrates the use of **data preprocessing, missing-value handling, regular expressions, outlier detection, correlation analysis, and univariate, bivariate, and multivariate analysis** to generate meaningful business insights from e-commerce product data.
 
 ---
 
